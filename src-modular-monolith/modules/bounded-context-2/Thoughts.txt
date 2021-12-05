@@ -1,0 +1,3 @@
+What if a command has cross cutting concerns across bounded contexts? Domain events?
+Would we ever need to move the commands outside of a module? 
+
